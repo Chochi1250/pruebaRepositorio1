@@ -36,3 +36,5 @@ instrucciones
 
 -El arreglo se diferencia en que sus variables no pueden cambiar su valor ya que son constantes, pero si pueden agregarse nuevas
 En cambio en los objetos podemos modificar la variable/caracteristica pero no agregar nuevas
+
+Prompt Probando las pull request B)
