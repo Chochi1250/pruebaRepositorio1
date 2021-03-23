@@ -1,0 +1,15 @@
+Notas clase 2:
+
+https://github.com/intevolution/MagIAJuvenil2021
+Notacion:Camel Case o joroba de caballo
+-Termino number para numeros en java 
+-String para los textos dentro del codigo
+-Boolean para los valores verdadero o falso
+-Null Denotan valores nulos, datos vacios
+-undefined -> valores indefinidos, aun no han sido puestos, denotan que nuestra variable o constante no tiene aun valor. solo se declaro la constante
+-Objeto -> (representacion de entidades en la vida real) ej auto = { marca: "Toyota", patente:"HHA-445", color:"rojo"};
+-arreglo -> conjunto ordenado de numeros [1,2,3,4,5,6,7,8,9,10] ir especificamente ir a esa posicion
+
+Sangria con el boton tab
+
+

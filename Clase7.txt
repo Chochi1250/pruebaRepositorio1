@@ -1,0 +1,34 @@
+Arreglos:
+
+Agregar un elemento en un indice especifico:
+- nombreArreglo [ indice ] = nuevoValor;
+
+Remover un elemento en un indice especifico
+- delete nombreArreglo[ indice ];
+
+Metodos de arreglos:
+
+Para saber la cantidad exacta de elementos de arreglo, usaremos el siguiente metodo:
+- nombreArreglo.legnth();
+
+Para agregar elementos al final de un arreglo
+-nombreArreglo.push( elemento );
+
+Borrar elementos al final de un arreglo:
+- nombreArreglo.pop();
+
+Agregar elementos a un arreglo:
+nombreArreglo.splice(
+posicion de nuevos elementos,
+numero de elementos a eliminar,
+elemento a agregar
+);
+
+Borrar el elemento en un indice especifico
+nombreArreglo.splice(
+posicion de elementos a eliminar
+numero de elementos a eliminar
+);
+
+Concatenar arreglos con un nuevo arreglo
+- nombreArreglo1.concat(nombreArreglo2);

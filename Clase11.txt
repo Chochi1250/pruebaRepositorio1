@@ -1,0 +1,16 @@
+=> : Sirve nomas para declarar una funcion flecha y a continuacion determinar los parametros
+
+-Ambito de variable: El ambito determina la accesibilidad de las variables.
+En Javascript hay dos tipos de ambito:
+*Ambito local
+*Ambito global
+Cada funcion crea un nuevo ambito y las variables definidas dentro de una funcion no son accesibles fuera de la funcion
+
+*Variable local: Son variables que se declaran dentro de una funcion, por lo que solo se pueden acceder a ellas desde dentro de la funcion
+
+*Variables globales: Son variables que se declaran fuera de una funcion, estas pueden ser accedidas desde cualquier parte del programa
+
+-Tipos de declaraciones en JavaScript:
+
+*Let: es la forma moderna de declarar una variable y en caso de quererlo podemos inicializarla con un valor
+let nombreVariable = valor;

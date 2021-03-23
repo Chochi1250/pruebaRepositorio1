@@ -1,0 +1,18 @@
+Clase4:
+
+Operadores logicos: Se utilizan para determinar la logica entre variables o valores
+
+&&:  Y            Valor1 && Valor2 ( Sirve para unir condiciones )
+!:   Negacion     !(Valor)
+||:  O            Valor1 II Valor2  ( Verificar las condiciones para ver si alguna es verdadera )
+
+Estructura de control: Permite cambiar la secuencia de ejecucion de un programa, para ello utilizaremos las estructuras de control condicionales:
+Condicion Verdadero --> intruscciones / Falso
+
+if: se usa if para especificar un bloque de codigo que se ejecutara si una condicion especificada es verdadera. La estructura es la siguiente: if( expresion ){ instrucciones }
+
+else: Se usa else para especificar un bloque de codigo que se ejecutara, si la misma expresion es falsa
+La estructura es la siguiente: if(expresion){Instrucciones A}else{Instrucciones B}
+
+Else if: se usa else if para especificar una nueva expresion para probar, si la primera condicion es falsa
+Su estructura es la siguiente:  if( expresion1 ){ instrucciones A } else if(expresion 2){ instrucciones B }else{ Instrucciones C }

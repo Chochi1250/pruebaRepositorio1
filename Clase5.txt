@@ -1,0 +1,20 @@
+Clase 5:
+
+parseInt: sirve para suprimir numeros con coma?
+Se pueden hacer operaciones determinadas en un console.log
+%: para sacar el resto en operaciones/lo que sobra de divisiones
+switch: Se utiliza switch para realizar diferentes acciones en funcion del valor de una expresion. Utilizado cuando un valor puede tomar muchisimas condiciones
+switch(expresion){
+case valor1:
+instrucciones
+break;
+default:
+intrucciones
+break;
+}
+
+Cosas segun su color
+verde: comentarios
+azul: cosas especificas con ya acciones predeterminadas
+verde claro: numeros
+naranja: texto 

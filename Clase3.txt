@@ -1,0 +1,36 @@
+Clase 1: necesitas: https://aka.ms/3marzo/Datos
+Operadores aritmeticos:
+Se utilizan para operaciones: suma resta multiplicacion:
++ Suma
+- Resta
+* Multiplicacion
+/ Division
+**
+% Modulo (Resto)
+++ Incremento
+-- Decremento
+
+-Para que funcionen, requieren operandos
+-console.log sirve para ver una variable u objeto en la terminal
+-Para unir dos terminos se utiliza el + (concatenar)
+
+Operadores de asignacion
+= Sobreescribir, x = Y
++= Se suma x + Y
+-=
+*=
+/=
+%=
+%=
+**=
+
+Operadores de comparacion
+se utilizan para determinar la igualdad o diferencia entre variables o valores
+== Igual que
+=== Igual valor e tipo
+!= Diferente que
+!== Diferente valor o diferente tipo
+> Mayor que
+< Menor que
+>= Mayor o igual que
+<= Menor o igual que 

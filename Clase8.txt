@@ -1,0 +1,30 @@
+-Arreglo: Un arreglo es un conjunto de elementos guardados en una variable o constante, se puede definir de la siguiente manera
+
+variable = [elemento1, elemento2];
+
+-Concatenar arreglos: Concatenar arreglos en un nuevo arreglo
+
+nombreArreglo1.concat(nombreArreglo2);
+
+-Ordenar los elementos de un arreglo y devolver el arreglo ordenado
+
+nombreArreglo1.sort();
+
+ESTRUCTURAS DE CONTROL ITERATIVAS (CICLOS)
+
+Repiten instrucciones de un bloque de codigo dependiendo del valor de una expresion definida
+
+Condicion Verdadero -> Instrucciones
+Falso->
+
+-for: La instruccion for es la estructura de bucle mas sencilla, podemos ejecutar el mismo codigo varias veces.
+Cuenta con un a variable contador y con cada iteracion la variable tendra un valor distinto.
+La estrucutra es la siguiente
+for(inicializacion; expresion; incremento ({
+instrucciones
+}
+Se suele utilizar la variable i
+
+arreglos.length: para saber el tamaño de estos
+
+default: describe casos por defecto, es decir, cuando los casos anteriores no se han cumplido

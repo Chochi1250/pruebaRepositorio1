@@ -1,0 +1,38 @@
+-Diferencia entre let y var:
+
+*Con var, el ambito se extiende sobre toda la funcion dentro de la que se declare
+*Con let y cosnt solo se extiende al bloque dentro del que se declare. Por bloque se entiende a todo codigo encerrado en un par de llaves {}
+
+-Funciones:
+Comportamiento predeterminado de JavaScript, mueve las declaraciones a la parte superior del ambito
+Debido a esto, las funciones de JavaScript se pueden llamar antes de que se declaren
+
+-Programacion Orientada a Objetos (POO)
+*Paradigma de programacion que utiliza la abstraccion para crear estructuras de entidades de la vida real (Objetos)
+El diseño de programas se hace a traves de un conjunto de objetos que cooperan, cada uno es capaz de recibir mensajes, procesar datos y enviar mensajes a otros
+
+-Objetos tambien son variables. Pero los objetos pueden contener muchos valores
+*Por ejemplo: Un celular
+Tiene propiedades como el peso, color y metodos como prender o tomar fotos
+Todos tienen las mismas propiedades, pero los valores difieren de un celular a otro. Tambien tienen los mismos metodos, pero se realizan en momentos diferentes
+
+-Acceder a las propiedades de un objeto:
+*nombreObjeto.nombrePropiedad;
+*nombreObjeto["nombrePropiedad"];
+
+-Clase: (moldes)
+Es una platinlla para objetos JavaScript(nota: no es un objeto)
+Su estructura es:
+class nombreClase{
+constructor(parametros){
+instrucciones
+  }
+}  
+
+-This: utlizado para definir instrucciones en el aparto de class.
+
+-Let: no puede declararse dos veces el mismo let en un bloque de codigo
+* Ademas, puede variar su valor entre bloques. 
+
+-El arreglo se diferencia en que sus variables no pueden cambiar su valor ya que son constantes, pero si pueden agregarse nuevas
+En cambio en los objetos podemos modificar la variable/caracteristica pero no agregar nuevas

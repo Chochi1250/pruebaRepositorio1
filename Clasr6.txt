@@ -1,0 +1,14 @@
+==Arreglo: un arreglo es un conjunto de elementos guardados en una variable o constante, definibiles por la siguiente manera
+var nombreArreglo = [];
+Agregar datos al arreglo desde la declaracion
+var nombreArreglo = [1,2,3,4,5,6,7,8]
+Agregar un elemento en un indice especifico: nombre arreglo[ indice ] = nuevoValor;
+Remover un elemento en un indice especifico:
+delete nombreArreglo[ indice ];  >> Indice se refiere a indice, es decir anexo, unidad (llegar a algo mas rapido) [0] el primer valor de x tipo de dato 
+variable = [elemento1, elemento2, elemento3, elemento4] Es decir, poseen una posicion ESPECIFICA,ORDENADA Y UNA POSICION EN ELLOS (En algunos lenguajes tienen que ser cierto tipos de datos. En javascript esto no pasa)
+
+==If: permite especificar condicion Ya sean horarios por ejemplo
+
+==alert: pantallas que se despliegan adicionalmente como las cookies
+
+http://tintafresca.com.ar/matinet/cd_6/index_cd_6.php

@@ -1,0 +1,27 @@
+
+-Funcion: Bloque de codigo diseñado para realizar una tarea en particular. Una funcion de JavaScript se ejecuta cuando es llamada
+Declaracion de funcion -> Llamada de la funcion | instrucciones | Llamada de la funcion | instrucciones | llamada de la funcion
+
+*Declaracion de una funcion
+Utilizamos la palabra reservada function, seguido OBLIGATORIAMENTe por un nombre que identificara a nuestra funcion y una lista de parametros entre parentesis
+La estructura queda de la siguiente forma
+
+function nombreFuncion (parametros){
+ instrucciones
+}
+
+*Definir una funcion como expresion
+La definicion de este tipo de funcion no comienza con la palabra reservada function y el nombre de la funcion es opcional, puede asignarse a una variable;
+su estructura es:
+variable = nombreFuncion ( parametros ){
+ instrucciones
+}
+
+-return: Utilizado en funciones como expresion, para que los valores sean guardados en la variable resultado
+
+-Funciones flecha
+Permiten una sintaxis corta para escribir expresiones de funciones.
+No necesitan de "function", "return" ni tampoco de llaves.
+
+Su estructura es:
+variable = ( parametros ) => instrucciones;

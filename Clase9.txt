@@ -1,0 +1,16 @@
+Estructuras de control iterativas o Ciclos:
+
+-While: es un ciclo que se encarga de ejecutar un bloque de codigo que siempre se cumpla una expresion especifica
+La estructura es la siguiente: 
+while( expresion ){
+instrucciones
+};
+OJO CON LOS CICLOS PERPETUOS, AGREGAR DECREMENTOS CON CONDICIONES PARA EVITAR ESTO
+
+-Do while: El ciclo do / while es como un ciclo while, excepto que el cuerpo del bucle siempre se ejecuta almenos una vez. 
+La essstructura es la siguiente: 
+do{
+instrucciones
+}while( expresion);
+
+-Diferencias: En do/while ejecutamos las intrucciones MINIMAMENTE una vez. Segun que condicion haya, puede seguir. A diferencia de el while siempre vas a hacer la pregunta antes, por lo que puede no utilizar las instrucciones
